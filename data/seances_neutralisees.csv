@@ -1,0 +1,4 @@
+ticker,date,variation_cloture,parite_suspectee,controle_investing,motif
+TJARI,2025-04-30,-0.1317,8/7 (attribution 1 pour 7),"non fait : Tjari.csv absent (seul un export mensuel d'Attijariwafa Bank, titre marocain, a été trouvé)","augmentation de capital annoncée le 12/03/2025, modalités non documentées ; baisse gardée comme réelle"
+CIL,2023-05-16,-0.2830,7/5 (attribution 2 pour 5),non fait : Cil.csv absent,aucune source ne documente une opération ; baisse gardée comme réelle
+CELL,2023-04-18,-0.2973,10/7 (attribution 3 pour 7),non fait : Cell.csv absent,"aucune source ; titre illiquide (pas de cotation du 04/04 au 18/04) ; baisse gardée comme réelle"

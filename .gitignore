@@ -1,0 +1,33 @@
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Journaux
+logs/
+
+# Données brutes et caches de collecte (régénérables)
+mes_exports/
+data/cours_corriges/
+data/ilboursa_tranches/
+data/ilboursa_societe/
+data/ilboursa_actus/
+data/ost_cmf/pdf/
+data/ost_cmf/html/
+data/ost_cmf/txt/
+data/ost_cmf/txt_pdftotext/
+data/ost_cmf/*_avant_pdfplumber.csv
+data/synthetic/
+outputs_exemple_SYNTHETIQUE/
+*.pdf
+
+# Exports investing.com (contrôle local uniquement)
+*.csv.csv
+Biat*.csv
+Sfbt*.csv
+Tunidex*.csv
+Tjari*.csv
+Cil*.csv
+Cell*.csv
+*Stock Price History*.csv

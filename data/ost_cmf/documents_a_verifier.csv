@@ -1,0 +1,26 @@
+ticker,document_source,probleme
+TRE,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/tunis_re_post_age_24.04.2026.pdf,"parité d'attribution ambiguë [(1, 4), (3, 4)]"
+TRE,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/tunis_re_post_age_24.04.2026.pdf,date d'attribution absente du document
+TINV,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/tuninvest_sicar_post_ago_11.06.2026.pdf,montant de dividende illisible
+SAM,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/post_ago_societe_atelier_du_meuble_interieurs_-sam-.pdf,montant de dividende illisible
+OTH,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/oth_post_ago_09.06.2026.pdf,date de mise en paiement illisible
+LNDOR,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/landor_ago_29062026.pdf,date de mise en paiement illisible
+LNDOR,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/landor_post_ago_30.09.2026.pdf,montant de dividende illisible
+AMV,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/assurances_magvie-post_ago_15.05.2026.pdf,date de mise en paiement illisible
+ASSMA,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/assurances_mag-post_ago_15.05.2026.pdf,date de mise en paiement illisible
+ASSMA,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/assurances_mag_post_age_15.05.2026.pdf,date d'attribution ambiguë
+ARTES,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/informations/resolutions/post_ago_artes.pdf,date de mise en paiement illisible
+TRE,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/capital/augmentation/aug_de_capital_realise_tuinsre_2026.pdf,"parité d'attribution ambiguë [(1, 4), (3, 4)]"
+TRE,https://www.cmf.tn/sites/default/files/pdfs/emetteurs/capital/augmentation/aug_de_capital_realise_tuinsre_2026.pdf,date d'attribution absente du document
+AL,https://www.cmf.tn/?q=paiement-de-dividendes-air-liquide-tunisie-0,date de mise en paiement illisible
+SOTUV,https://www.cmf.tn/?q=paiement-de-dividendes-sotuver-3,date de mise en paiement illisible
+PGH,https://www.cmf.tn/?q=paiement-de-dividendes-pgh,date de mise en paiement illisible
+LNDOR,https://www.cmf.tn/?q=paiement-des-dividendes-exceptionnels-land%E2%80%99or,montant de dividende illisible
+SIAME,https://www.cmf.tn/?q=paiement-des-dividendes-de-l%E2%80%99exercice-2025-siame,"date de mise en paiement ambiguë ['2026-09-23', '2026-09-25']"
+SIAME,https://www.cmf.tn/?q=paiement-des-dividendes-de-l%E2%80%99exercice-2024-siame,montant de dividende illisible
+LNDOR,https://www.cmf.tn/?q=paiement-de-dividendes-land%E2%80%99or-1,montant de dividende illisible
+AST,https://www.cmf.tn/?q=paiement-de-dividendes-astree-0,date de mise en paiement illisible
+PGH,https://www.cmf.tn/?q=paiement-de-dividendes-pgh-0,date de mise en paiement illisible
+OTH,https://www.cmf.tn/?q=paiement-de-dividendes-oth,date de mise en paiement illisible
+TLNET,https://www.cmf.tn/?q=paiement-de-dividendes-telnet-holding-1,date de mise en paiement illisible
+BH,https://www.cmf.tn/?q=paiement-de-dividendes-bh-bank-0,date de mise en paiement illisible
