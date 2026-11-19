@@ -3,7 +3,7 @@
 But : construire, pour les sociétés cotées à la Bourse de Tunis, des cours de clôture journaliers ajustés
 des opérations sur titres (dividendes, attributions gratuites, divisions, augmentations de capital), avec
 un rapport qualité. Les rendements et indicateurs sont calculés ensuite, hors de ce dépôt
-(voir `README_phase2_modeles.md` pour la suite du projet).
+(`archive/` contient la première version du pipeline de modèles, non utilisée ici).
 
 ## Résultats (`data/final/`)
 
